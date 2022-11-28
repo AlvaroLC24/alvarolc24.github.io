@@ -7,4 +7,4 @@ Las dos primeras están disponibles en las plataformas Flourish y Public Tableau
 - Sankey Diagram:
 - Bullet Graph:
 
-La matriz de correlación creada en Jupyter Notebook está disponible en la web.
+La matriz de correlación creada en Jupyter Notebook se encuentra en el archivo Correlation_matrix.ipynb o en la Site Page.
