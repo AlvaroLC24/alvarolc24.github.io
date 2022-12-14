@@ -9,4 +9,4 @@ Las dos primeras están disponibles en las plataformas Flourish y Public Tableau
 
 La matriz de correlación creada en Jupyter Notebook se encuentra en el archivo [Correlation_matrix.ipynb](Correlation_matrix.ipynb) o en la [Site Page](https://alvarolc24.github.io/Correlation_matrix.html).
 
-Esta es la prueba del proyecto de visualización de datos: [Prueba](prueba_visualizacion.html).
+Esta es la prueba del proyecto de visualización de datos: [Prueba](https://alvarolc24.github.io/prueba_visualizacion.html).
